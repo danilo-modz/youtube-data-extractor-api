@@ -1,0 +1,16 @@
+{
+  "name": "youtube-data-extractor-api",
+  "version": "1.0.0",
+  "description": "API em Node.js para extrair dados de vídeos do YouTube.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch --no-warnings server.js"
+  },
+  "author": "https://beacons.ai/danilomodz",
+  "dependencies": {
+    "@fastify/cors": "^8.4.0",
+    "axios": "^1.5.1",
+    "fastify": "^4.23.2"
+  }
+}
