@@ -15,7 +15,7 @@ Este projeto consiste em uma API desenvolvida com Node.js, dedicada à extraçã
 
 * **URL**
 
-  `https://danilomodz-youtube-data-extractor-api.onrender.com`
+  `https://youtube-data-extractor.onrender.com`
 
 * **Método**
 
